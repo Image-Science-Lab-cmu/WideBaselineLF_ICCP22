@@ -1,1 +1,3 @@
-# WideBaselineLF_ICCP22
+# Wide-Baseline Light Field using Ellipsoidal Mirrors
+
+Code, dataset, and paper to be released soon.
